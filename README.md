@@ -1,1 +1,1 @@
-# Connectionist-temporal-classification
+# Connectionist temporal classification implementation of  [this paper](https://dl.acm.org/doi/pdf/10.1145/1143844.1143891?casa_token=_0vTumYToAUAAAAA:F05-Bm8s6gTlfhWO9e70iwHLngPygNd804Lewxks3wuiAxmx_ygAq1BplANQM8UkQqZji7tldani6A)
